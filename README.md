@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more of Web Scraping
 - 💞️ I’m looking to collaborate on some interesting Data Science Projects!!
 - 👨‍🎓 I’m a Statistician by education 
-- 👨‍🏭 I’m Working in Catastrophe Modelling right now
+- 👨‍🏭 I’m Working in [Catastrophe Modelling](https://www.rms.com/catastrophe-modeling) right now
 - 📫 Reach out to me at nsekar560808@hmail.com
 - <img src="https://user-images.githubusercontent.com/10369716/123642142-96890200-d840-11eb-88bb-65b524f06b81.png" alt="drawing" width="20"/> [Connect with me on LinkedIn](https://www.linkedin.com/in/nagarajan-nethi/)
 
